@@ -1,4 +1,8 @@
+body{
+    font-family: arial, helvetica, sans-serif;
+}
+
 h1{
-    color:blueviolet;
+    color:rgb(59, 11, 137);
     font-size: 60px;
 }
